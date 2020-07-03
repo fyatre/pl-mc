@@ -19,4 +19,9 @@ rowsDiamond = 7
 #How many rows does the obsidian backpack have?
 #Range: 1 ~ 13
 rowsObsidian = 8
+#Can backpacks be put inside other backpacks?
+allowBagInBag = true
+#How many layers deep can you place backpacks inside backpacks? -1 for infinite, 0 is the same as setting 'allowBagInBag' to false.
+#Range: -1 ~ 5
+maxBagInBagLayer = -1
 
