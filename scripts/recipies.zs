@@ -42,7 +42,11 @@ var stick = <item:minecraft:stick>;
   craftingTable.addShapeless("cobweb_string", <item:minecraft:string> * 4, 
  [<item:minecraft:cobweb>]);
  
+  craftingTable.addShaped("bamboo_paper", <item:minecraft:paper>, 
+ [[<item:minecraft:bamboo>, <item:minecraft:bamboo>], 
+ [<item:minecraft:bamboo>, air]]);
  
+
  
  
 //jungle

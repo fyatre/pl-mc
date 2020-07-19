@@ -4,12 +4,26 @@
 "Illagers In Raids Attack Animals?" = false
 #Witches Attack Villagers?
 "Witches Attack Villagers?" = true
-#Illusioners in Raids?
-"Illusioners in Raids?" = true
-#Guards Attack All Mobs?
+#Guards will attack all hostiles with this option
 "Guards Attack All Mobs?" = false
+#This will make Illusioners get involved in raids
+"Have Illusioners in Raids?" = false
 #This option makes guards run from ravagers when low on health
-"Make Guards Run From Ravagers When Low On Health?" = true
+"Have Guards be run from ravagers when on low health?" = true
 #This makes the guard villagers have a slow natural health regeneration.
-"Have Natural Health Regen For The Guards? " = false
+"Make Guards regenerate health?" = false
+#This makes villagers run from polar bears, as anyone with common sense would.
+"Have Villagers have some common sense?" = true
+#This makes Illagers run from polar bears, as anyone with common sense would.
+"Have Illagers have some common sense?" = true
+#This makes Guards run from polar bears, as anyone with common sense would.
+"Have Guards have some common sense?" = false
+#This lets Guards open doors.
+"Have Guards open doors?" = true
+#This will make guards raise their shields all the time, on default they will only raise their shields under certain conditions
+"Have Guards raise their shield all the time?" = false
+#This makes guards form a phalanx
+"Have guards form a phalanx?" = true
+#This will make guards attempt to avoid friendly fire.
+"Have guards avoid friendly fire?" = true
 
