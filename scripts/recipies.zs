@@ -46,7 +46,9 @@ var stick = <item:minecraft:stick>;
  [[<item:minecraft:bamboo>, <item:minecraft:bamboo>], 
  [<item:minecraft:bamboo>, air]]);
  
-
+  craftingTable.addShaped("kelp_green_dye", <item:minecraft:green_dye>, 
+ [[<item:minecraft:kelp>, <item:minecraft:kelp>], 
+ [<item:minecraft:kelp>, <item:minecraft:kelp>]]);
  
  
 //jungle
